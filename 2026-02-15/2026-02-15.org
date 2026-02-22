@@ -1,0 +1,8 @@
+* Multi-OS Setups
+[Abraham] Chapter 1
+
+- [X] Continue: Syscalls
+- [X] Multi-OS/Multi-kernel setups
+- [X] Dual boots
+- [X] Virtual Machines and VM hypervisors
+- [X] Lab 1

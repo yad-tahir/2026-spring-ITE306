@@ -1,0 +1,9 @@
+* File System and Glob expressions
+[Robb - Chapter 4]
+- [X] cat
+- [X] rm
+- [X] cp, mv
+- [X] Glob expressions: *,?,[],{}
+
+* H.W.
+- Running mkdir <file_name> twice vs running touch <file_name> twice.

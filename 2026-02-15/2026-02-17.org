@@ -1,0 +1,10 @@
+*  Introduction to Bash
+[Ted - Chapter 2]
+
+- [X] Shells and Bash
+- [X] Commands
+- [X] Arguments
+- [X] Options
+- [X] commands: uname, shutdown, echo, watch, yes
+- [X] command manual
+- [X] command history

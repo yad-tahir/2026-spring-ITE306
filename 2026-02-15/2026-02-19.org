@@ -1,0 +1,10 @@
+* Bash and File System
+[Robb - Chapter 4]
+- [X] Files and why they important in Unix/Linux
+- [X] pwd & cd
+- [X] file paths
+- [X] ls
+
+* H.W.
+ln
+ln vs ln -s
