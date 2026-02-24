@@ -1,0 +1,8 @@
+* Mounts and FileSystem Tree
+[Robb - Chapter 4]
+- [ ] Unix/Linux Filesystem tree
+- [ ] mount points
+- [ ] command: mount
+- [ ] Files as APIs
+- [ ] /dev, /proc, /sys
+- [ ] dd
