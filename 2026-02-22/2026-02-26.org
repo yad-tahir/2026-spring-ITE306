@@ -1,0 +1,17 @@
+* Bash Redirection and Pipelines
+[Robb - Chapter 2]
+
+- [X] stdout, stderr, stdin
+- [X] redirect operation
+- [X] append operation
+- [X] Bash pipelines
+- [X] ls -alip, grep, wc -l, wc -c, wc -w, ping 8.8.8.8
+
+* H.W.
+Explain each of the following:
+#+BEGIN_SRC bash
+  cat < data.txt
+  cat << TEST
+  cat <(echo hello)
+  cat >(echo hello)
+#+END_SRC
