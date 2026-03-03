@@ -1,0 +1,25 @@
+* Pipelines - continued
+[Robb - Chapter 4 and 14]
+
+- [X] less
+- [X] head and tail
+- [X] tee
+- [X] awk
+- [X] && operator
+- [X] || operator
+- [X] ; operator
+- [X] find
+- [X] xargs
+
+* H.W.
+** The 'more' command vs 'less'
+
+* Lab 2
+** The tail with + numbers
+#+BEGIN_SRC bash
+  tail -n +2
+#+END_SRC
+** The head with - numbers
+#+BEGIN_SRC bash
+  head -n -2
+#+END_SRC
