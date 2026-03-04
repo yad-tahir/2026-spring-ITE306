@@ -1,0 +1,8 @@
+* Filesystem - Part 4
+[Abraham - Chapter 12]
+
+- [X] Virtual File System
+- [X] Storage Management
+- [X] commands: fdisk, stat, du, df
+- [X] File Descriptors
+- [X] Data structures in VFS: dentry, inode, super_block
