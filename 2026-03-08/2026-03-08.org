@@ -1,0 +1,12 @@
+* User Management in modern OSes
+[Robb - Chapter 9]
+
+- [X] Authentication And Authorization (AAA)
+- [X] User accounts
+- [X] Group accounts
+- [X] /primary/ group and /secondary/ group
+- [X] Commands: id, whoami, su, sudo, passwd
+- [X] Commands: useradd, usermod, userdel
+
+* H.W.
+- Commands: groupadd, groupmod, groupdel
