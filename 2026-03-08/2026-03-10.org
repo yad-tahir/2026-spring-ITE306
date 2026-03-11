@@ -1,0 +1,11 @@
+* File permissions
+[Robb - Chapter 9]
+
+- [X] File permissions
+- [X] User owner and group owner
+- [X] commands: chown and chmod
+
+
+* H.W.
+- sticky permission
+- 'execute permission' on directories
