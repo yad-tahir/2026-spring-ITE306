@@ -1,0 +1,10 @@
+* Bash Scripting - Part 1
+[Ted - Chapter 14]
+
+- [X] Bash script
+- [X] Creating a Bash script
+- [X] Benefits
+- [X] Syntax and Semantics (vs normal terminal sessions)
+- [X] Variables x=value
+- [X] Sub sessions () & $()
+- [X] Arithmetic $(()) -> $(echo expresion | bc)
