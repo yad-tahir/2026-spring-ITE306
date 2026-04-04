@@ -1,0 +1,8 @@
+* Bash Scripting - Part 2
+[Ted - Chapter 14]
+
+- [X] Recap: Bash scripting
+- [X] .bashrc
+- [X] .bash_logout
+- [X] .bash_history
+- [X] Bash alias
