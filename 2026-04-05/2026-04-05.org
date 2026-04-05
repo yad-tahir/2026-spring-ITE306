@@ -1,0 +1,6 @@
+* Process Management - Part 1
+[Abraham - Chapter 3]
+
+- [X] What is a Process?
+- [X] commands: top, htop, ps, pidof
+- [X] /proc
