@@ -1,0 +1,11 @@
+* Process Management - Part 2
+[Abraham - Chapter 3]
+
+- [X] Recap: Part 1
+- [X] Inner Process Communication (IPC)
+
+- [X] Process Signaling
+- [X] Commands: kill
+
+- [X] Process Scheduling
+- [X] Commands: renice, nice
