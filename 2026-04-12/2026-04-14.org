@@ -1,0 +1,6 @@
+* Package Management
+[Linux+ - Chapter 8]
+
+- [X] What is a *package*?
+- [X] Install/remove/upgrade packages
+- [X] Commands: apt-get and apt-cache

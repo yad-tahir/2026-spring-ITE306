@@ -1,0 +1,10 @@
+* Process Management - Part 3
+[Abraham - Chapter 3]
+
+- [X] Recap Part 1 and Part 2
+- [X] A process is created
+
+- [X] Linux Namespace
+- [X] Linux CGroup
+
+** Lab 3
