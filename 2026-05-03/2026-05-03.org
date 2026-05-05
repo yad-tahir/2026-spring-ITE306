@@ -1,0 +1,7 @@
+* Linux Networking
+[Linux+ - Chapter 15]
+
+- [X] Recap ITE301: How computer networks work
+- [ ] How to configure Linux in computer networks
+- [ ] NIC devices
+- [ ] Command: ip, tcpdump, wireshark

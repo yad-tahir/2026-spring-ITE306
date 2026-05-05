@@ -1,0 +1,53 @@
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+	link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+	inet 127.0.0.1/8 scope host lo
+	   valid_lft forever preferred_lft forever
+	inet6 ::1/128 scope host noprefixroute
+	   valid_lft forever preferred_lft forever
+2: enp21s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000
+	link/ether 60:cf:84:8a:49:bf brd ff:ff:ff:ff:ff:ff
+	altname enx60cf848a49bf
+3: enp20s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000
+	link/ether cc:28:aa:a8:81:1e brd ff:ff:ff:ff:ff:ff
+	altname enxcc28aaa8811e
+4: wlp18s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+	link/ether b0:47:e9:c2:c7:5c brd ff:ff:ff:ff:ff:ff
+	altname wlxb047e9c2c75c
+	inet 192.168.0.2/25 brd 192.168.0.127 scope global noprefixroute wlp18s0
+	   valid_lft forever preferred_lft forever
+5: lxdbr2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+	link/ether 3e:01:ce:14:91:2a brd ff:ff:ff:ff:ff:ff
+	inet 169.254.0.1/24 brd 169.254.0.255 scope link noprefixroute lxdbr2
+	   valid_lft forever preferred_lft forever
+6: lxdbr1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+	link/ether 6e:61:25:82:1b:96 brd ff:ff:ff:ff:ff:ff
+	inet 192.168.0.254/25 brd 192.168.0.255 scope global noprefixroute lxdbr1
+	   valid_lft forever preferred_lft forever
+	inet6 fe80::7f87:4f98:197a:ae83/64 scope link noprefixroute
+	   valid_lft forever preferred_lft forever
+119: vethe5c6cc9a@if118: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr1 state UP group default qlen 1000
+	link/ether e2:8f:5f:02:6e:a5 brd ff:ff:ff:ff:ff:ff link-netnsid 0
+121: veth89339fa3@if120: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr2 state UP group default qlen 1000
+	link/ether 12:f9:c5:c4:be:05 brd ff:ff:ff:ff:ff:ff link-netnsid 1
+123: veth43389da8@if122: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr2 state UP group default qlen 1000
+	link/ether 32:9d:08:b1:e6:a2 brd ff:ff:ff:ff:ff:ff link-netnsid 3
+125: veth9fc95eaf@if124: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr1 state UP group default qlen 1000
+	link/ether 9a:e7:98:18:c2:de brd ff:ff:ff:ff:ff:ff link-netnsid 4
+127: vethd3fea634@if126: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr1 state UP group default qlen 1000
+	link/ether 7a:41:05:5d:eb:62 brd ff:ff:ff:ff:ff:ff link-netnsid 6
+129: veth8e50cbb3@if128: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr2 state UP group default qlen 1000
+	link/ether ce:5a:95:ea:c3:7d brd ff:ff:ff:ff:ff:ff link-netnsid 7
+131: vethd7960911@if130: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr1 state UP group default qlen 1000
+	link/ether 9e:78:e9:40:b0:bd brd ff:ff:ff:ff:ff:ff link-netnsid 5
+133: vethdb243eea@if132: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr2 state UP group default qlen 1000
+	link/ether ce:33:1a:2f:a5:eb brd ff:ff:ff:ff:ff:ff link-netnsid 9
+135: vetha28079ad@if134: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr1 state UP group default qlen 1000
+	link/ether ee:36:04:c2:27:f6 brd ff:ff:ff:ff:ff:ff link-netnsid 10
+137: veth73708a2d@if136: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master lxdbr1 state UP group default qlen 1000
+	link/ether 22:25:6e:c2:f6:66 brd ff:ff:ff:ff:ff:ff link-netnsid 11
+148: tun0: <POINTOPOINT,MULTICAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 500
+	link/none
+	inet 10.10.10.254/24 brd 10.10.10.255 scope global tun0
+	   valid_lft forever preferred_lft forever
+	inet6 fe80::113e:6462:5b42:de84/64 scope link stable-privacy proto kernel_ll
+	   valid_lft forever preferred_lft forever
