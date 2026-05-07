@@ -1,0 +1,12 @@
+* Systemd - Part 1
+[Online - http://systemd.io]
+
+- [X] What is systemd?
+- [X] What is a service/daemon?
+- [X] Start/Stop/Restart/Enable/Disable service
+- [X] Masking services
+- [X] Command: systemctl
+
+** H.W.
+- First, create a script that prints the word 'AUIS' 20 times.
+- Second, create a new systemd service that when it starts, it is going to run the newly created script file.
