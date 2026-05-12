@@ -1,0 +1,12 @@
+* Systemd - Part 3
+[Online - http://systemd.io]
+
+- [X] What are Log messages (a.k.a logs)
+- [X] journald: A unified log monitoring system
+- [X] How are logs collected?
+- [X] Command: journalctl
+
+** H.W.
+- --since and --until options
+
+- Assignment 2

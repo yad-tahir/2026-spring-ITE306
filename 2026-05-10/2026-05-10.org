@@ -1,0 +1,10 @@
+* Systemd - Part 2
+[Online - http://systemd.io]
+
+- [X] How modern operating systems boot
+- [X] BIOS/UEFI
+- [X] Boot Loaders
+- [X] Linux run-levels - systemd targets
+
+** H.W.
+- *PXE* loading in BIOS/UEFI
