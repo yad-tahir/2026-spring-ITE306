@@ -1,0 +1,7 @@
+* SSH - Part 1
+[Robb - Chapter 18]
+
+- [X] What is SSH?
+- [X] Why do you need it?
+- [X] How it works?
+- [X] Demo
